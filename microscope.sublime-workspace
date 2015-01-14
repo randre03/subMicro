@@ -4,6 +4,14 @@
 		"selected_items":
 		[
 			[
+				"sub",
+				"subscribe(name, ?, ?, callbacks?)"
+			],
+			[
+				"crea",
+				"createElement	jsDOM"
+			],
+			[
 				"na",
 				"navbar-brand	BootstrapClass"
 			],
@@ -17,17 +25,34 @@
 			]
 		]
 	},
-	"buffers":
-	[
-	],
 	"build_system": "",
 	"command_palette":
 	{
-		"height": 52.0,
+		"height": 375.0,
 		"selected_items":
 		[
 			[
+				"ssx",
+				"Set Syntax: Handlebars"
+			],
+			[
+				"ss ",
+				"Set Syntax: Handlebars"
+			],
+			[
+				"ssx hand",
+				"Set Syntax: Handlebars"
+			],
+			[
 				"ssx handle",
+				"Set Syntax: Handlebars"
+			],
+			[
+				"ssx ",
+				"Set Syntax: Handlebars"
+			],
+			[
+				"ssx ha",
 				"Set Syntax: Handlebars"
 			],
 			[
@@ -98,17 +123,29 @@
 		"side_bar_visible": false,
 		"status_bar_visible": false
 	},
-	"expanded_folders":
-	[
-		"/Users/randre03/dev/meteor/microscope"
-	],
 	"file_history":
 	[
-		"/Users/randre03/dev/meteor/microscope/client/main.html",
-		"/Users/randre03/dev/meteor/microscope/client/templates/posts/post_item.js",
-		"/Users/randre03/dev/meteor/microscope/microscope.sublime-project",
 		"/Users/randre03/dev/meteor/microscope/client/templates/posts/posts_list.js",
+		"/Users/randre03/dev/meteor/microscope/lib/collections/posts.js",
+		"/Users/randre03/dev/meteor/microscope/lib/router.js",
+		"/Users/randre03/dev/meteor/microscope/client/templates/posts/post_submit.js",
+		"/Users/randre03/dev/meteor/microscope/client/templates/includes/header.html",
+		"/Users/randre03/dev/meteor/microscope/client/templates/includes/access_denied.html",
+		"/Users/randre03/dev/meteor/microscope/client/templates/posts/post_submit.html",
+		"/Users/randre03/dev/meteor/microscope/client/templates/application/layout.html",
+		"/Users/randre03/dev/meteor/microscope/client/helpers/config.js",
+		"/Users/randre03/dev/meteor/microscope/client/main.js",
+		"/Users/randre03/dev/meteor/microscope/server/publications.js",
+		"/Users/randre03/dev/meteor/microscope/client/templates/application/layout.js",
+		"/Users/randre03/dev/meteor/microscope/client/templates/application/not_found.html",
 		"/Users/randre03/dev/meteor/microscope/client/templates/posts/posts_list.html",
+		"/Users/randre03/dev/meteor/microscope/client/templates/posts/post_page.html",
+		"/Users/randre03/dev/meteor/microscope/client/templates/posts/post_item.js",
+		"/Users/randre03/dev/meteor/microscope/client/templates/posts/post_item.html",
+		"/Users/randre03/dev/meteor/microscope/client/templates/includes/loading.html",
+		"/Users/randre03/dev/meteor/microscope/client/main.html",
+		"/Users/randre03/dev/meteor/microscope/server/fixtures.js",
+		"/Users/randre03/dev/meteor/microscope/microscope.sublime-project",
 		"/Users/randre03/dev/meteor/microscope/client/templates/posts/postItem.html",
 		"/Users/randre03/dev/meteor/microscope/.meteor/local/shell-history",
 		"/Users/randre03/dev/meteor/microscope/.meteor/local/build/programs/server/node_modules/source-map-support/source-map-support.js",
@@ -143,7 +180,6 @@
 		"/Users/randre03/Library/Application Support/Sublime Text 3/Packages/User/Preferences.sublime-settings",
 		"/Users/randre03/dev/meteor/microscope/client/stylesheets/style.css",
 		"/Users/randre03/dev/backbone/ch1/lib/backbone-1.1.2.js",
-		"/Users/randre03/dev/meteor/microscope/client/main.js",
 		"/Users/randre03/Library/Application Support/Sublime Text 3/Packages/Default/Preferences.sublime-settings",
 		"/Users/randre03/Dropbox/Mackup/.tmuxinator/meteor-s.yml",
 		"/Users/randre03/Library/Application Support/Sublime Text 3/Packages/Better Completion/sbc-setting.sublime-settings",
@@ -221,14 +257,6 @@
 		"whole_word": false,
 		"wrap": true
 	},
-	"groups":
-	[
-		{
-			"sheets":
-			[
-			]
-		}
-	],
 	"incremental_find":
 	{
 		"height": 27.0
@@ -272,7 +300,6 @@
 	{
 		"height": 35.0
 	},
-	"project": "microscope.sublime-project",
 	"replace":
 	{
 		"height": 50.0
@@ -302,7 +329,6 @@
 		],
 		"width": 0.0
 	},
-	"selected_group": 0,
 	"settings":
 	{
 	},
