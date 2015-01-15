@@ -125,9 +125,10 @@
 	},
 	"file_history":
 	[
+		"/Users/randre03/dev/meteor/microscope/client/main.html",
+		"/Users/randre03/dev/meteor/microscope/lib/router.js",
 		"/Users/randre03/dev/meteor/microscope/client/templates/posts/posts_list.js",
 		"/Users/randre03/dev/meteor/microscope/lib/collections/posts.js",
-		"/Users/randre03/dev/meteor/microscope/lib/router.js",
 		"/Users/randre03/dev/meteor/microscope/client/templates/posts/post_submit.js",
 		"/Users/randre03/dev/meteor/microscope/client/templates/includes/header.html",
 		"/Users/randre03/dev/meteor/microscope/client/templates/includes/access_denied.html",
@@ -143,7 +144,6 @@
 		"/Users/randre03/dev/meteor/microscope/client/templates/posts/post_item.js",
 		"/Users/randre03/dev/meteor/microscope/client/templates/posts/post_item.html",
 		"/Users/randre03/dev/meteor/microscope/client/templates/includes/loading.html",
-		"/Users/randre03/dev/meteor/microscope/client/main.html",
 		"/Users/randre03/dev/meteor/microscope/server/fixtures.js",
 		"/Users/randre03/dev/meteor/microscope/microscope.sublime-project",
 		"/Users/randre03/dev/meteor/microscope/client/templates/posts/postItem.html",
